@@ -1,7 +1,7 @@
 # PRIV
 This is a repository filled with school proxy/game websites and chromeOS hacks to bypass school web filtering.
 
-**Need help? Ask for help <a href="https://discord.gg/SwkH9d9tP4">here</a>!**
+**Need help? Ask for help <a href="https://discord.gg/SWkH9d9tP4">here</a>!**
 
 ![sob](https://files.catbox.moe/9vc62a.png)
 
