@@ -14,7 +14,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 ### How do I use it?
 <br/>
-1. <a href='https://github.com/Agguiopz/Priv/blob/main/Classlink%20Login.html'>Download the HTML file</a>
+1. <a href="https://github.com/Agguiopz/Priv/blob/main/Classlink%20Login.html">Download the HTML file</a>
 2. Open it
 3. Put in the username and password which are both ``history``
 4. Put an integer greater than one
@@ -23,7 +23,20 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 ### How can I change the credentials and the name/history
 Just open up the html file source code then find what you want to rename and then download the html file
 
-[Back to top | ⬆](https://github.com/Agguiopz/Priv/edit/main/README.md#priv)
+<a href="https://github.com/Agguiopz/Priv/tree/main?tab=readme-ov-file#priv">Back to top ⏫</a>
+
+## ExtHang3r
+<br/>
+**ExtHang3r** is an exploit that allows ChromeOS users to **kill managed extensions** after the LTMEAT patch. It remains unpatched in all new ChromeOS versions as of November 2024.
+
+### How do I use it?
+<br/>
+<a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r.html">Download the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r">Copy the data: link and paste it into a new tab</a>
+
+### Note
+When you start hanging it will take longer than one minute and it will lag a ton since it is refreshing iframes, so I recommend closing all your other tabs before hanging. If you are using securly please use ``securly (old)``
+
+<a href="https://github.com/Agguiopz/Priv/tree/main?tab=readme-ov-file#priv">Back to top ⏫</a>
 
 ## Dextensify
 <br/>
@@ -31,9 +44,9 @@ Just open up the html file source code then find what you want to rename and the
 
 ### How do I use it?
 <br/>
-[Open up the html file](https://github.com/Agguiopz/Priv/blob/main/dextensify.html) or [copy the data: link and paste it into a new tab](https://github.com/Agguiopz/Priv/blob/main/Dextensify) and follow instructions on-screen from there
+<a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify">Open up the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify">Copy the data: link and paste it into a new tab</a> and follow instructions on-screen from there
 
-[Back to top | ⬆](https://github.com/Agguiopz/Priv/edit/main/README.md#priv)
+<a href="https://github.com/Agguiopz/Priv/tree/main?tab=readme-ov-file#priv">Back to top ⏫</a>
 
 ## UNBLOCK3R
 <br/>
@@ -41,9 +54,9 @@ Unblocks websites by making urls too long and **overloading servers**.
 
 ### How do I use it?
 <br/>
-[Open the HTML file](https://github.com/Agguiopz/Priv/blob/main/bypasser.html) or [copy the data: link and paste it into a new tab](https://github.com/Agguiopz/Priv/blob/main/UNBLOCK3R) and follow instructions on-screen from there
+<a href="https://github.com/Agguiopz/Priv/blob/main/bypasser.html">Open up the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/UNBLOCK3R">copy the data: link and paste it into a new tab</a> and follow instructions on-screen from there
 
-[Back to top | ⬆](https://github.com/Agguiopz/Priv/edit/main/README.md#priv)
+<a href="https://github.com/Agguiopz/Priv/tree/main?tab=readme-ov-file#priv">Back to top ⏫</a>
 
 ## BlobWifi
 <br/>
@@ -51,9 +64,9 @@ Unblocks websites by making urls too long and **overloading servers**.
 
 ### How do I use it?
 <br/>
-[Download the html file](https://github.com/Agguiopz/Priv/blob/main/blobwifi.html) and follow on-screen intrusctions from there
+<a href="https://github.com/Agguiopz/Priv/blob/main/blobwifi.html">Downlaod the HTML file</a> and follow on-screen intrusctions from there
 
-[Back to top | ⬆](https://github.com/Agguiopz/Priv/edit/main/README.md#priv)
+<a href="https://github.com/Agguiopz/Priv/tree/main?tab=readme-ov-file#priv">Back to top ⏫</a>
 
 ## CauDNS
 <br/>
@@ -61,13 +74,12 @@ Unblocks websites by making urls too long and **overloading servers**.
 
 ### How do I use it?
 <br/>
-[Download the html file](https://github.com/Agguiopz/Priv/blob/main/caudns.html) or [put the data: link into a new tab
-](https://github.com/Agguiopz/Priv/blob/main/cauDNS) and follow on-screen instructions from there 
+<a href="https://github.com/Agguiopz/Priv/blob/main/caudns.html">Downlaod the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/cauDNS">put the data: link into a new tab</a> and follow on-screen instructions from there 
 
 ### Note
 <br/>
 You can change the name servers you want to set by clicking advanced on the top left. This may not work and just entirely make your wifi connected with no internet.
 
-[Back to top | ⬆](https://github.com/Agguiopz/Priv/edit/main/README.md#priv)
+<a href="https://github.com/Agguiopz/Priv/tree/main?tab=readme-ov-file#priv">Back to top ⏫</a>
 
 (Expect more things to be added as I still have more things that I must apply here)
