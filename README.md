@@ -81,7 +81,7 @@ Made by [schoolexploitkid](https://github.com/schoolexploitkid)
 <a href="https://github.com/Agguiopz/Priv/blob/main/bypasser.html">Open up the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/UNBLOCK3R">copy the data: link and paste it into a new tab</a> and follow instructions on-screen from there
 
 ### Why does it not work?
-This does not work for most extensiosn becuase they have evolved to a point where you can't just crash them.
+This does not work for most extensions that can support more letters but you are free to use the other given options in the website.
 
 ### Further Reading
 
