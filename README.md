@@ -14,11 +14,13 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 ### How do I use it?
 <br/>
-1. <a href="https://github.com/Agguiopz/Priv/blob/main/Classlink%20Login.html">Download the HTML file</a>
-2. Open it
-3. Put in the username and password which are both ``history``
-4. Put an integer greater than one
-5. You are all set, you can keep this running.
+1. Download the <a href="https://github.com/Agguiopz/Priv/blob/main/Classlink%20Login.html">HTML file</a>
+
+2. Put in the username and password which are both ``history``
+
+3. Put an integer greater than one
+
+4. You are all set, you can keep this running.
 
 ### How can I change the credentials and the name/history
 Just open up the html file source code then find what you want to rename and then download the html file
@@ -31,7 +33,7 @@ Just open up the html file source code then find what you want to rename and the
 
 ### How do I use it?
 <br/>
-<a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r.html">Download the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r">Copy the data: link and paste it into a new tab</a>
+Download the <a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r.html">HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Ext-Hang3r">copy the data: link and paste it into a new tab</a>
 
 ### Note
 When you start hanging it will take longer than one minute and it will lag a ton since it is refreshing iframes, so I recommend closing all your other tabs before hanging. If you are using securly please use ``securly (old)``
