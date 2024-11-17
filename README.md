@@ -142,7 +142,7 @@ This does not work for most extensions that can support more letters but you are
 [**🔼 Back to Top**](#priv)
 
 ## LTMEAT
-Alternative method of [LTMEAT](https://ext-remover.net/detail/LTMEAT/index.html) based on [Alternate Method #1](https://ltmeat.bypassi.com/alt/1.txt) that hangs and refreshes extensions naturally without debug URLs.
+Alternative method of [LTMEAT](https://ext-remover.net/detail/LTMEAT/index.html) based on [Alternate Method #1](https://ltmeat.bypassi.com/alt/1.txt) that **hangs and refreshes extensions** naturally without debug URLs.
 
 ### How do i use it?
 Visit https://ext-remover.net/detail/LTMEAT%20Flood/ and follow on-screen instructions from there.
