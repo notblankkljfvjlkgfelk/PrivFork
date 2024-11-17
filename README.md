@@ -156,6 +156,7 @@ Visit https://ext-remover.net/detail/LTMEAT%20Flood/ and follow on-screen instru
 
 ## Corkey
 **Corrupts extensions** by interrupting the sync process.
+<br/>
 By [AkaButNice](https://github.com/Aka-but-nice) and [Bypassi#7037](https://github.com/bypassiwastaken)
 Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](https://github.com/Brandon421-ops) (their github account is deleted???)
 
