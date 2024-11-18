@@ -7,7 +7,6 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 # Collaborators
 <br/>
-
 <img src="https://avatars.githubusercontent.com/u/135869371?v=4|width=10px" alt="kg" width="100" height = "100"/>
 
 
