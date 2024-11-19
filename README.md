@@ -117,9 +117,15 @@ devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
 **Dextensify** is an exploit which lets you 𝗱𝗶𝘀𝗮𝗯𝗹𝗲 𝗺𝗼𝘀𝘁 𝗮𝗱𝗺𝗶𝗻-𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗲𝗱 𝗖𝗵𝗿𝗼𝗺𝗲 𝗲𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻𝘀 from any webpage. It can be used from regular websites, HTML files, and data URLs.
 
 Made by [ading2210](https://ading.dev/)
+Improved Version by [STPv22](https://github.com/STPv22)
 
 ### How do I use it?
-<a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify.html">Open up the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify">Copy the data: link and paste it into a new tab</a> and follow instructions on-screen from there (I recommend using the html version as you can control your lag on there)
+1. <a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify.html">Open up the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify">Copy the data: link and paste it into a new tab</a>
+2. Open up your settings page for your extension (if you are using securly use **Securly for Chromebooks**
+3. If you are on Securly use **Freeze Securly (old)** to bypass blocked pages. The other extensions are fine since it's usually just one extension
+4. Press ok then instantly switch back to your extension page and start spamming ``Allow access to file URLs``
+5. While you are in a middle of a laggy state wait a few seconds then instantly press your url bar and go to any website or smth and close the dextensify page
+6. Note that the extension may turn back on at random intervals which is why you must sometimes have to press ``Allow access to file URLs`` again every few minutes
 
 ### Further Reading
 [How it Works](https://ading.dev/blog/posts/dextensify.html)
