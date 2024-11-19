@@ -119,7 +119,7 @@ devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
 Made by [ading2210](https://ading.dev/)
 
 ### How do I use it?
-<a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify">Open up the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify">Copy the data: link and paste it into a new tab</a> and follow instructions on-screen from there
+<a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify.html">Open up the HTML file</a> or <a href="https://github.com/Agguiopz/Priv/blob/main/Dextensify">Copy the data: link and paste it into a new tab</a> and follow instructions on-screen from there (I reccomend using the html version as you can control your lag on there)
 
 ### Further Reading
 [How it Works](https://ading.dev/blog/posts/dextensify.html)
