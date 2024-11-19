@@ -24,6 +24,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
   * [CauDNS **(Edit Server Names)**](#caudns)
   * [Chrome100 **(Revert Versions)**](#chrome100)
   * [Policy Password Tool **(WIFI Password Extractor)**](#policy-password-tool)
+  * [Bypass Content Keeper **(Bypass Blocked Pages)**](#bypass-content-keeper)
 
 ## Classlink Login
 
@@ -257,5 +258,22 @@ Visit https://luphoria.com/netlog-policy-password-tool and follow on-screen inst
 https://discord.gg/unblock
 
 <br/>
+
+[**🔼 Back to Top**](#priv)
+
+## Bypass Content Keeper
+Allows you to **open blocked websites** with very **simple steps**.
+<br/>
+
+Discovered By [paxtoboss12](https://discord.com/users/564582252936429570)
+
+### How do I use it?
+1. Update your chromebook to the newest version
+2. Keep retrying to open a blocked website
+3. On the 3rd/4th try it will just let you in
+
+If this didn't work then sit and cry in a corner or use the other methods.
+
+![alt](https://files.catbox.moe/0dnue4.png)
 
 [**🔼 Back to Top**](#priv)
