@@ -31,15 +31,29 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 𝗖𝗹𝗮𝘀𝘀𝗹𝗶𝗻𝗸 𝗟𝗼𝗴𝗶𝗻 is an html file that allows you to 𝗳𝗹𝗼𝗼𝗱 𝘆𝗼𝘂𝗿 𝗵𝗶𝘀𝘁𝗼𝗿𝘆 𝘄𝗶𝘁𝗵 𝗖𝗹𝗮𝘀𝘀𝗹𝗶𝗻𝗸 𝗟𝗼𝗴𝗶𝗻 to hide uneducational websites from your browser history. This will cause your computer to lag during flooding based on how big your number is put.
 
 Created by [me](https://github.com/Agguiopz)
+<br/>
+
+<img src="https://camo.githubusercontent.com/e2d3bb7cd21619f06382ad5cec3dac8d32587f6fd555eb643788871c2e0b85ef/68747470733a2f2f66696c65732e636174626f782e6d6f652f386f686b38322e706e67" data-canonical-src="https://camo.githubusercontent.com/e2d3bb7cd21619f06382ad5cec3dac8d32587f6fd555eb643788871c2e0b85ef/68747470733a2f2f66696c65732e636174626f782e6d6f652f386f686b38322e706e67" width="500" height="300" />
+<br/>
 
 ### How do I use it?
-1. Download the [HTML file](https://github.com/Agguiopz/Priv/blob/main/Classlink%20Login.html)
+1. Download the [HTML file](https://github.com/Agguiopz/Priv/blob/main/Classlink%20Login.html) and open it
 
 2. Put in the username and password which are both ``history``
 
 3. Put an integer greater than one
 
 4. You are all set, you can keep this running.
+
+### Data:text Version (don't recommend)
+
+I do not recommend using this because it won't show the name
+<br/>
+<img src="https://camo.githubusercontent.com/3c42820d66e8bb5d4a578caf32a90b28e3255a7669f64f92aec2e5db7ac32bb8/68747470733a2f2f66696c65732e636174626f782e6d6f652f3776396375702e706e67" data-canonical-src="https://camo.githubusercontent.com/3c42820d66e8bb5d4a578caf32a90b28e3255a7669f64f92aec2e5db7ac32bb8/68747470733a2f2f66696c65732e636174626f782e6d6f652f3776396375702e706e67" width="500" height="300" />
+<br/>
+1. Copy the text from [here](https://github.com/Agguiopz/Priv/blob/main/Classlink)
+3. Put it in your url bar in a new tab
+4. Follow instructions from 2-4 from the HTML version
 
 ### How can I change the credentials and the name/history?
 Just open up the html file source code then find what you want to rename and then download the html file
