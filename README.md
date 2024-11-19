@@ -131,6 +131,7 @@ devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
 **Dextensify** is an exploit which lets you 𝗱𝗶𝘀𝗮𝗯𝗹𝗲 𝗺𝗼𝘀𝘁 𝗮𝗱𝗺𝗶𝗻-𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗲𝗱 𝗖𝗵𝗿𝗼𝗺𝗲 𝗲𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻𝘀 from any webpage. It can be used from regular websites, HTML files, and data URLs.
 
 Made by [ading2210](https://ading.dev/)
+<br/>
 Improved Version by [STPv22](https://github.com/STPv22)
 
 ### How do I use it?
