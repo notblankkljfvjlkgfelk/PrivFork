@@ -73,7 +73,7 @@ This exploit allows you to **corrupt extensions** interrupting the sync process.
 
 Discovered by [AkaButNice](https://github.com/Aka-but-nice), [Bypassi#7037](https://github.com/bypassiwastaken)
 <br/>
-Named by Ashton Davies (the football player??) & [Brandon421-ops](https://github.com/Brandon421-ops) (Their github page was deleted)
+Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](https://github.com/Brandon421-ops) (Their github page was deleted)
 
 ### How do I use it?
 
