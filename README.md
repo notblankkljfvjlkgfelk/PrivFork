@@ -15,6 +15,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 - [PRIV](#priv)
   * [Classlink Login **(History Flooder)**](#classlink-login)
+  * [Corkey **(Corrupt Extensions)**](#corkey)
   * [ExtHang3r **(Freeze Extensions)**](#exthang3r)
   * [RigTools **(Disable Extensions**](#rigtools)
   * [Dextensify **(Freeze Extensions)**](#dextensify)
@@ -57,6 +58,63 @@ I do not recommend using this because it won't show the name
 
 ### How can I change the credentials and the name/history?
 Just open up the html file source code then find what you want to rename and then download the html file
+
+<br/>
+
+[**🔼 Back to Top**](#priv)
+
+## Corkey
+This exploit allows you to **corrupt extensions** interrupting the sync process.
+<br/>
+
+![corrupt](https://github.com/user-attachments/assets/1665178f-dd59-46fe-91c1-fabebfa5e5b6)
+
+<br/>
+
+Discovered by [AkaButNice](https://github.com/Aka-but-nice), [Bypassi#7037](https://github.com/bypassiwastaken)
+<br/>
+Named by Ashton Davies (the football player??) & [Brandon421-ops](https://github.com/Brandon421-ops) (Their github page was deleted)
+
+### How do I use it?
+
+**You will have to factory reset your chromebook so make sure you know your wifi password at home or at school (I advise doing this at home) and make sure you sync all of the files you want to save into your google drive**
+</br/>
+
+**You must have acess to login without wifi (sign in as an existing user**
+<br/>
+
+**If your organization does not allow you to sign in without a network, you should instead prevent internet access on your network.**
+<br/>
+
+**This requires precise timing and good reflexes**
+
+1. Powerwash / Factory Reset
+
+   Press **Esc** + **Refresh**![refresh](https://github.com/user-attachments/assets/11d83e38-ece5-4433-8acc-5d3b452e9245) + **Power**![power](https://github.com/user-attachments/assets/5d03cbb1-9c6c-45ae-822c-648de734c3d5)
+
+   Press **CTRL+D** on the recovery/insert USB screen
+
+   Press **Enter**
+
+2. Sign in
+3. Immediatly disconnect from your network
+4. Press **Refresh**![refresh](https://github.com/user-attachments/assets/11d83e38-ece5-4433-8acc-5d3b452e9245) + **Power**![power](https://github.com/user-attachments/assets/5d03cbb1-9c6c-45ae-822c-648de734c3d5)
+5. Navigate to the url <ins>chrome://extensions</ins>
+6. Connect to your network
+7. Wait for the extension that you want to corrupt automatically install
+8. **Immediately** disconnect from your network and restart
+9. Sign in again as an existing user with no wifi to ensure the extension was corrupted just like what the image showed
+
+   The other extensions shouldn't install
+
+**Slightly Bad Scenario:** If you don't see any extenison or any of the extensions installed then you are gonna have to **try again** (do steps 7 - 9 again) and maybe do step 8 a little later but not too late otherwise it will fully install
+
+**Worse Case Scenario:** If the extension if installed but its not corrupted you are going to have to **do it all over again** this means factory resseting once again
+
+**Best Case Scnario:** You did it!! Repair any extensions you want to fix and restart your chromebook and **log in with your wifi** on again to fix your files not being able to be opened for download
+
+### Further Reading
+[Website](https://ext-remover.net/detail/Corkey/)
 
 <br/>
 
