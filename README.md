@@ -80,7 +80,7 @@ Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](htt
 **You will have to factory reset your chromebook so make sure you know your wifi password at home or at school (I advise doing this at home) and make sure you sync all of the files you want to save into your google drive**
 <br/>
 
-**You must have acess to login without wifi (sign in as an existing user**
+**You must have acess to login without wifi (sign in as an existing user)**
 <br/>
 
 **If your organization does not allow you to sign in without a network, you should instead prevent internet access on your network.**
