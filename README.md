@@ -78,7 +78,7 @@ Named by Ashton Davies (the football player??) & [Brandon421-ops](https://github
 ### How do I use it?
 
 **You will have to factory reset your chromebook so make sure you know your wifi password at home or at school (I advise doing this at home) and make sure you sync all of the files you want to save into your google drive**
-</br/>
+<br/>
 
 **You must have acess to login without wifi (sign in as an existing user**
 <br/>
