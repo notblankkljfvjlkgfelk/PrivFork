@@ -112,7 +112,7 @@ Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](htt
 
 **Worse Case Scenario:** If the extension if installed but its not corrupted you are going to have to **do it all over again** this means factory resseting once again
 
-**Best Case Scnario:** You did it!! Repair any extensions you want to fix and restart your chromebook and **log in with your wifi** on again to fix your files not being able to be opened for download
+**Best Case Scenario:** You did it!! Repair any extensions you want to fix and restart your chromebook and **log in with your wifi** on again to fix your files not being able to be opened for download
 
 ### Further Reading
 [Website](https://ext-remover.net/detail/Corkey/)
