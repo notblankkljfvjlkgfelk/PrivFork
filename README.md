@@ -53,6 +53,7 @@ I do not recommend using this because it won't show the name
 
 <img src="https://camo.githubusercontent.com/3c42820d66e8bb5d4a578caf32a90b28e3255a7669f64f92aec2e5db7ac32bb8/68747470733a2f2f66696c65732e636174626f782e6d6f652f3776396375702e706e67" data-canonical-src="https://camo.githubusercontent.com/3c42820d66e8bb5d4a578caf32a90b28e3255a7669f64f92aec2e5db7ac32bb8/68747470733a2f2f66696c65732e636174626f782e6d6f652f3776396375702e706e67" width="500" height="300" />
 <br/>
+
 1. Copy the text from [here](https://github.com/Agguiopz/Priv/blob/main/Classlink)
 3. Put it in your url bar in a new tab
 4. Follow instructions from 2-4 from the HTML version
