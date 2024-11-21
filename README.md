@@ -20,7 +20,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
   * [RigTools **(Disable Extensions**](#rigtools)
   * [Dextensify **(Freeze Extensions)**](#dextensify)
   * [LTMEAT **(Freeze Extensions)**](#ltmeat)
-  * [Corkey **(Corrupt Extensions)**](corkey)
+  * [Corkey **(Corrupt Extensions)**](#corkey)
   * [BlobWifi **(Disable Updates)**](#blobwifi)
   * [CauDNS **(Edit Server Names)**](#caudns)
   * [Chrome100 **(Revert Versions)**](#chrome100)
