@@ -26,6 +26,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
   * [Chrome100 **(Revert Versions)**](#chrome100)
   * [Policy Password Tool **(WIFI Password Extractor)**](#policy-password-tool)
   * [Bypass Content Keeper **(Bypass Blocked Pages)**](#bypass-content-keeper)
+  * [Extension Information **(View Allowed and Unblocked Extensions)**](#extension-information)
 
 ## Classlink Login
 
