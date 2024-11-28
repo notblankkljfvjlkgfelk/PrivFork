@@ -358,3 +358,24 @@ If this didn't work then sit and cry in a corner or use the other methods.
 ![alt](https://files.catbox.moe/0dnue4.png)
 
 [**🔼 Back to Top**](#priv)
+
+## Extension Information
+Nothing much just a method on how to view your **allowed extensions** and **blocked extensions**
+<br/>
+
+### How do I use it?
+1. Navigate to the url <ins>chrome://policy</ins>
+2. Search for any policy named ``ExtensionAllowList`` or ``ExtensionBlockList`` (or just search extension and see what you can find in the policy list)
+3. View the properties of any of the two
+
+ You will see random numbers which are actually the extension ids
+
+4. Copy any extension id and put in the url address bar 
+```md
+https://chromewebstore.google.com/detail/extensionidhere
+```
+
+<br/>
+
+
+[**🔼 Back to Top**](#priv)
