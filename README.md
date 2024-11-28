@@ -368,7 +368,7 @@ Nothing much just a method on how to view your **allowed extensions** and **bloc
 2. Search for any policy named ``ExtensionAllowList`` or ``ExtensionBlockList`` (or just search extension and see what you can find in the policy list)
 3. View the properties of any of the two
 
- You will see random numbers which are actually the extension ids
+ You will see random letters which are actually the extension ids
 
 4. Copy any extension id and put in the url address bar 
 ```md
