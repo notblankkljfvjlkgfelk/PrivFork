@@ -1,6 +1,11 @@
 # PRIV
 This is a repository filled with school proxy/game websites and chromeOS hacks to bypass school web filtering.
 
+# Websites
+https://agguiopz.github.io/Priv/ **(Auto Updated)**
+
+I'll add the HTML version soon
+
 **Need help? Ask for help <a href="https://discadia.com/link-drop-2-0">here</a>!**
 
 ![sob](https://files.catbox.moe/9vc62a.png)
