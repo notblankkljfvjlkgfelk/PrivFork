@@ -7,7 +7,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 <br/>
 
-Website (Auto Updated)
+**Website (Auto Updated)**
 https://agguiopz.github.io/Priv/
 
 <br/>
