@@ -32,7 +32,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 ## Classlink Login
 
-𝗖𝗹𝗮𝘀𝘀𝗹𝗶𝗻𝗸 𝗟𝗼𝗴𝗶𝗻 is an html file that allows you to 𝗳𝗹𝗼𝗼𝗱 𝘆𝗼𝘂𝗿 𝗵𝗶𝘀𝘁𝗼𝗿𝘆 𝘄𝗶𝘁𝗵 𝗖𝗹𝗮𝘀𝘀𝗹𝗶𝗻𝗸 𝗟𝗼𝗴𝗶𝗻 to hide uneducational websites from your browser history. This will cause your computer to lag during flooding based on how big your number is put.
+𝗖𝗹𝗮𝘀𝘀𝗹𝗶𝗻𝗸 𝗟𝗼𝗴𝗶𝗻 is an html file that allows you to 𝗳𝗹𝗼𝗼𝗱 𝘆𝗼𝘂𝗿 𝗵𝗶𝘀𝘁𝗼𝗿𝘆 𝘄𝗶𝘁𝗵 𝗖𝗹𝗮𝘀𝘀𝗹𝗶𝗻𝗸 𝗟𝗼𝗴𝗶𝗻 to hide uneducational websites from your browser history. This will cause your computer to lag during flooding since the HTML website is actively creating new url inputs.
 
 Created by [me](https://github.com/Agguiopz)
 <br/>
