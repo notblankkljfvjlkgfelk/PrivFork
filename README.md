@@ -114,7 +114,7 @@ Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](htt
 
 **Slightly Bad Scenario:** If you don't see any extenison or any of the extensions installed then you are gonna have to **try again** (do steps 7 - 9 again) and maybe do step 8 a little later but not too late otherwise it will fully install
 
-**Worse Case Scenario:** If the extension if installed but its not corrupted you are going to have to **do it all over again** this means factory resseting once again
+**Worse Case Scenario:** If the extension is installed but its not corrupted you are going to have to **do it all over again** this means factory resseting once again
 
 **Best Case Scenario:** You did it!! Repair any extensions you want to fix and restart your chromebook and **log in with your wifi** on again to fix your files not being able to be opened for download
 
