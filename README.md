@@ -5,6 +5,13 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 **Need help? Ask for help <a href="https://discadia.com/link-drop-2-0">here</a>!**
 
+<br/>
+
+Website (Auto Updated)
+https://agguiopz.github.io/Priv/
+
+<br/>
+
 ![sob](https://files.catbox.moe/9vc62a.png)
 
 # Collaborators
