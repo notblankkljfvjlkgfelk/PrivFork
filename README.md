@@ -3,7 +3,7 @@ This is a repository filled with school proxy/game websites and chromeOS hacks t
 
 <br/>
 
-**Need help? Ask for help <a href="https://discadia.com/link-drop-2-0">here</a>!**
+**Need help? Ask for help <a href="https://discord.com/users/972684542144028692">here</a>!**
 
 <br/>
 
