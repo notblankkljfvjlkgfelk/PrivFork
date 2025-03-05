@@ -24,6 +24,8 @@ https://agguiopz.github.io/Priv/
 
 - [PRIV](#priv)
   * [Classlink Login **(History Flooder)**](#classlink-login)
+  * [Guest Mode **(Unrestricted Browsing)**](#guest-mode)
+  * [SimplyVPN **(Unblock Network Blocked Sites)**](#simplyvpn)
   * [Corkey **(Corrupt Extensions)**](#corkey)
   * [ExtHang3r **(Freeze Extensions)**](#exthang3r)
   * [RigTools **(Disable Extensions**](#rigtools)
@@ -70,6 +72,109 @@ I do not recommend using this because it won't show the name
 
 ### How can I change the credentials and the name/history?
 Just open up the html file source code then find what you want to rename and then download the html file
+
+<br/>
+
+[**🔼 Back to Top**](#priv)
+
+## Guest Mode
+Allows you to go in the **Guest Mode** View of Google giving you **unrestricted web browsing**.
+
+**This remains unpatched as of 129-133+**
+
+</br>
+
+![guest](https://github.com/user-attachments/assets/3aa53c7f-e9d5-4f2f-87e2-a8bc68110add)
+
+Discovered by [elisay (.elisay)](https://discord.com/users/647929484628066323)
+
+### Advantages of Guest Mode
+
+- Unrestricted Web Browsing (this includes administrator blocked websites)
+- No Extensions
+- Inspect is unblocked
+- Bookmarklets are unblocked. However you need to type or copy and paste it in the URL bar to execute the code. Or you can just use inspect to execute code
+- History is not recorded
+- You can use any Google account while on guest mode
+- AI Overviews are unblocked
+- No settings are managed including your schools private network
+- Crosh is unblocked
+- Chrome://flags is unblocked
+- "My Files" are unblocked
+- All of chromes built in URL's are unblocked
+
+### Disadvantages of Guest Mode
+- You can't download any extensions
+- You can't use bookmarks
+- You can't download apps from the playstore
+
+### How do I use it?
+
+**You will have to factory reset your chromebook so make sure you know your wifi password at home or at school and make sure you sync all of the files you want to save into your google drive or any file storage**
+<br/>
+
+**Must have acess to DNS server name configuration, if you don't then use rigtools.**
+<br/>
+
+1. Powerwash / Factory Reset (Stay in the Welcome To Your Chromebook! / Get Started Screen)
+
+   Press **Esc** + **Refresh**![refresh](https://github.com/user-attachments/assets/11d83e38-ece5-4433-8acc-5d3b452e9245) + **Power**
+
+   Press **CTRL+D** on the recovery/insert USB screen
+
+   Press **Enter**
+
+2. Connect to any Wi-Fi network you have access to and set all dns to 0.0.0.0.
+
+   Open your taskbar on the bottom and press the button on the far right (the time, wifi, and battery)
+
+   Press Wi-FI and connect to your wifi
+
+   Press your WI-FI network and scroll down to the **network section**
+
+   Change to **Custom name servers** and change all of the boxes to **0.0.0.0.**
+
+3. Disconnect and go back to WI-FI
+4. Click get started and click **Add other wifi network** (or just go to there from quick settings)
+5. Type in anything and press connect
+6. Connect back to original wifi. If the google loading screen pops up press **shift+alt+s**, click **power**![power](https://github.com/user-attachments/assets/5d03cbb1-9c6c-45ae-822c-648de734c3d5), then restart
+7. If you see the **browse as guest** [hyperlink](https://website.com) url pop up on the left, click it
+8. If it does not work you gotta do steps all over again or powerwash and do it again
+
+**To use bookmarklets you need to paste in the javascript code into the url or use inspect**
+
+**Optional:** To downgrade on guest mode iGo to wifi set all dns to **0.0.0.0** then set the first dns to **150.136.163.0**, now go to crosh (ctrl + alt + t) then type rollback,  press enter, then type y and press enter and it should downgrade.
+
+### Further Reading
+
+[About Guest Mode](https://support.google.com/chromebook/?p=chromebook_guest)
+
+<br/>
+
+[**🔼 Back to Top**](#priv)
+
+### SimplyVPN
+VPN Method to **unblock** all network blocked sites
+
+![image](https://github.com/user-attachments/assets/544846ca-c694-48a2-90b6-4fa9d13bcea4)
+
+<br/>
+
+Discovered by [ash (ash._ash)](https://discord.com/users/1046443045924634655)
+
+### How do I use it?
+
+1. Go to settings and go to the **network** tab
+2. Click add **connection** then click add **built in VPN**
+3. Click **OpenVPN** and select **l2tp/ipsec** from the drop-down list
+4. Go [here](https://m.ipspeed.info/freevpn_l2tpipsec.php?language=en) and scroll down and copy any IP address / host name
+5. Put the IP address / host name into the hostname text box
+6. Put anything as the VPN namep
+7. In **password**, **preshared key** and **username** enter **vpn** (group name is optional)
+8. Connect to the newly configured VPN
+
+### Further Reading
+[Main Website Page](https://m.ipspeed.info/index.php?language=en)
 
 <br/>
 
@@ -246,42 +351,6 @@ Visit https://ext-remover.net/detail/LTMEAT%20Flood/ and follow on-screen instru
 
 ### Further Reading
 [Github Discussion](https://github.com/3kh0/ext-remover/discussions/671)
-
-<br/>
-
-[**🔼 Back to Top**](#priv)
-
-## Corkey
-**Corrupts extensions** by interrupting the sync process.
-<br/>
-By [AkaButNice](https://github.com/Aka-but-nice) and [Bypassi#7037](https://github.com/bypassiwastaken)
-Named by [Ashton Davies](https://github.com/AshtonDavies) & [Brandon421-ops](https://github.com/Brandon421-ops) (their github account is deleted???)
-
-**If your organization does not allow you to sign in without a network, you should instead prevent internet access on your network.**
-
-### How do I use it?
-1. Powerwash.
-Press Ctrl+Alt+Shift+R on the sign-in screen and confirm, or press Esc + Refresh ↻, then press Power ⏻.
-
-   Press Ctrl+D on the recovery screen
-
-   Press Enter.
-
-2. Sign in.
-3. Immediately disconnect from your network.
-4. Press Refresh ↻ + Power ⏻ to instant restart.
-5. Sign in as an existing user.
-6. Navigate to chrome://extensions.
-7. Connect to your network.
-8. Wait for the targetted extension to automatically install.
-9. Immediately disconnect from your network and sign out.
-10. Sign in again.
-
-The extension should now be corrupted. You can check at chrome://extensions.
-
-# Further Reading
-
-[Website](https://ext-remover.net/detail/Corkey/)
 
 <br/>
 
