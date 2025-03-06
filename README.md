@@ -132,7 +132,7 @@ Discovered by [elisay (.elisay)](https://discord.com/users/647929484628066323)
 
    Press your WI-FI network and scroll down to the **network section**
 
-   Change to **Custom name servers** and change all of the boxes to **0.0.0.0.**
+   Change to **Custom name servers** and change all of the boxes to **0.0.0.0**
 
 3. Disconnect and go back to WI-FI
 4. Click get started and click **Add other wifi network** (or just go to there from quick settings)
