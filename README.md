@@ -135,7 +135,7 @@ Discovered by [elisay (.elisay)](https://discord.com/users/647929484628066323)
    Change to **Custom name servers** and change all of the boxes to **0.0.0.0**
 
 3. Disconnect and go back to WI-FI
-4. Click get started and click **Add other wifi network** (or just go to there from quick settings)
+4. Click get started and click **Add other wifi network**
 5. Type in anything and press connect
 6. Connect back to original wifi. If the google loading screen pops up press **shift+alt+s**, click **power**![power](https://github.com/user-attachments/assets/5d03cbb1-9c6c-45ae-822c-648de734c3d5), then restart
 7. If you see the **browse as guest** [hyperlink](https://website.com) url pop up on the left, click it
